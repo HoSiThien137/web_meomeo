@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a2d378b-82aa-486f-84b2-e9959b07f55a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tiktok-ui/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiktok-ui/config-overrides.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiktok-ui/jsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiktok-ui/src/components/Button/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiktok-ui/src/myAlert.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiktok-ui/src/components/GlobalStyles/GlobalStyles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tiktok-ui/src/components/GlobalStyles/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tiktok-ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tiktok-ui/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tiktok-ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tiktok-ui/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiktok-ui/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tiktok-ui/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/tiktok-ui/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiktok-ui/src/components/Button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tiktok-ui/src/components/Button/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiktok-ui/src/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tiktok-ui/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tiktok-ui/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiktok-ui/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tiktok-ui/src/myAlert.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,28 +26,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ngUnnkNa3MkNJPsh8BKsazEW5h" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "E:\\WebStorm 2024.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.App.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.setupTests.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\WebStorm 2024.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="App.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/tiktok-ui/src/App.js" working-dir="$PROJECT_DIR$/tiktok-ui/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.App.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,7 +75,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729394382530</updated>
-      <workItem from="1729394384056" duration="6262000" />
+      <workItem from="1729394384056" duration="9011000" />
+      <workItem from="1729426668594" duration="3368000" />
+      <workItem from="1730824414797" duration="11000" />
+      <workItem from="1731223855650" duration="5000" />
+      <workItem from="1731312698960" duration="1182000" />
+      <workItem from="1731377092602" duration="2000" />
+      <workItem from="1731460623123" duration="299000" />
+      <workItem from="1731979532051" duration="1000" />
+      <workItem from="1732066965662" duration="583000" />
+      <workItem from="1732075522146" duration="3000" />
     </task>
     <servers />
   </component>
