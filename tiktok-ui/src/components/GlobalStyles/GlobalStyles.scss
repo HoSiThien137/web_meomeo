@@ -2,9 +2,17 @@
 
 :root{
     --primary: #fe2c55;
+
+
+    //DeafaultLayout
+    --deafault-header-layout-height: 60px;
+    --deafault-layout-width: 1150px;
+
 }
 
 *{
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
