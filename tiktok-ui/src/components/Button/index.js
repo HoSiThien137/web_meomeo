@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 
 const cx = classNames.bind(styles);
 
-function Button({to, href, primary,outline,small, large, text, disabled, rounded, className, leftIcon, rightIcon, children, onClick, ...passProps}){
+function Button({to, href, primary, outline, small, large, text, disabled, rounded, className, leftIcon, rightIcon, children, onClick, ...passProps}){
     let Comp = 'button';
     const props ={
         onClick,
