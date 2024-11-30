@@ -8,7 +8,7 @@ function Button({to, href, primary, outline, small, large, text, disabled, round
     let Comp = 'button';
     const props ={
         onClick,
-        ...passProps
+        ...passProps    
     };
 
     // Remove event listener when even btn is disabled
@@ -38,7 +38,7 @@ function Button({to, href, primary, outline, small, large, text, disabled, round
     });
 
     return (
-        <Comp classNames={classes} {...props}>
+        <Comp className={classes} {...props}>
             {leftIcon && <span className={cx('icon')}>{leftIcon}</span>}
             <span className={cx('title')}>{children}</span>
             {rightIcon && <span className={cx('icon')}>{rightIcon}</span>}
