@@ -9,6 +9,7 @@
     padding: 0 var(--deafault-layout-horizontal-spacer);
     display: flex;
     margin-top: var(--deafault-header-layout-height);
+    max-width: 100%;
 }
 
 .content{
